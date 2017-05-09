@@ -48,6 +48,7 @@ h6 {
 }
 .img-centered {
   margin: 0 auto;
+  border:1px solid #021a40;
 }
 .bg-light-gray {
   background-color: #EDFFFF;
@@ -146,12 +147,13 @@ fieldset[disabled] .btn-xl.active {
   color: #fed136;
   background-color: white;
 }
+
 .navbar-custom {
   background-color: #222222;
   border-color: transparent;
 }
 .navbar-custom .navbar-brand {
-  color: #fed136;
+  color: #f0f71b;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
 }
 .navbar-custom .navbar-brand:hover,
